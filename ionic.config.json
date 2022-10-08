@@ -1,0 +1,7 @@
+{
+  "name": "census-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
